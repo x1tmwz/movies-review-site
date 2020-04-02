@@ -1,0 +1,7 @@
+@import './base/setting.css';
+@import './components/container.css';
+@import './components/header.css';
+@import './components/searchBar.css';
+@import './components/item.css';
+@import './components/list.css';
+@import './components/rate.css';

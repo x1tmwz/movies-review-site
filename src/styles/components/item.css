@@ -1,0 +1,21 @@
+.item__group{
+    display: flex;
+    flex-direction: row; 
+    justify-content:stretch;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background: #aaaaaa;
+    border:  solid #cacccd;
+   
+}
+.item__img{
+    width: 200px;
+    border:  solid #cacccd;
+    margin-right: 1rem;
+  
+}
+.item_description{
+   display: flex;
+   flex-direction: column;
+   
+}

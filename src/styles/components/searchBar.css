@@ -1,0 +1,45 @@
+.input-group{
+  display: flex;
+  background-color: #6d6d6d;
+}
+@media only screen and (max-width: 600px) {
+    .input-group{
+        flex-direction: column;
+    }
+
+} 
+.input-item{
+    margin-bottom: 1rem;
+   
+}
+.text-input{
+    border:  solid #cacccd;
+    height: 50px;
+    font-size: 2rem;
+    font-weight: 300;
+    padding: 1.6rem;
+}
+.select{
+    border:  solid #cacccd;
+    height: 50px;
+    font-size: 2rem;
+    font-weight: 300;
+    padding: 0;
+}
+.number-input{
+    border:  solid #cacccd;
+    height: 50px;
+    font-size: 2rem;
+    font-weight: 300;
+    padding: 0;
+}
+.input_span{
+    font-weight: bold;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+
+}
+.input_group_year{
+    display: flex;
+    flex-direction: column;
+}
